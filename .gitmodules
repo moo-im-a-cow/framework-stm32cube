@@ -1,0 +1,9 @@
+[submodule "f4"]
+	path = f4
+	url = git@github.com:STMicroelectronics/STM32CubeF4.git
+[submodule "l4"]
+	path = l4
+	url = git@github.com:STMicroelectronics/STM32CubeL4.git
+[submodule "h7"]
+	path = h7
+	url = git@github.com:STMicroelectronics/STM32CubeH7.git
